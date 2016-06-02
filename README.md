@@ -26,6 +26,6 @@ How to Use:
 Notes: 
 ===
 * I was used and edited "conky-seamod" with my favorite. You can see more here: https://hrshadhin.wordpress.com/2014/01/03/install-conky-conky-theme-seamod-mix-on-linux/ 
-* You can change a little things to appropriate with your computer. Maybe about fonts, size or resolution (1366x768 in used) ...
+* You can change a little things to appropriate with your computer. Maybe about fonts, size or **resolution (1366x768 in used)** ...
 * I will update with weather and theme config later.
 
